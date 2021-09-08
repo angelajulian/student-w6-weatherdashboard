@@ -1,0 +1,29 @@
+.jumbotron {
+  text-align: center;
+  font-size: xx-large;
+  color: white;
+  padding: 10px;
+  margin: 0;
+  background: linear-gradient(
+    0.25turn,
+    #9198e5,
+    #3f87a6,
+    #3f87a6,
+    #3f87a6,
+    #9198e5
+  );
+}
+
+.searchCol {
+  color: white;
+  height: 100vh;
+  background: linear-gradient(#9198e5, #e66465);
+  padding: 10px;
+}
+
+.searchCol form {
+  padding: 3px 3px 10px 3px;
+
+  border-bottom: 3px solid white;
+  border-radius: 2px;
+}
