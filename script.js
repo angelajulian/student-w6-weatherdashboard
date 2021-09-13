@@ -139,7 +139,7 @@ const getCityWeatherForcast = async function () {
     }
     $("#forecastContainer").append(forecastDiv);
   } else {
-    alert(`${newCity} cannot be found. Try another city.`);
+      alert(`${newCity} cannot be`)
   }
 };
 
